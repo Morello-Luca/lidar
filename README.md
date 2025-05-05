@@ -101,7 +101,7 @@ FRAME_HISTORY = 3
 
 3. **Run the script**:
    ```bash
-   python scriptname.py
+   python test.py
    ```
 
 4. **Watch the GUI** to see live point cloud. When a cluster enters the danger zone, a message is printed.
